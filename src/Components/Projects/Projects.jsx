@@ -27,6 +27,7 @@ const Projects = () => {
           title="PortFolio Website" 
           main="this is my portfolio website created using react js and tailwind css"
           image={ pFolio }
+          codeUrl={"https://github.com/Nilanjan-Mondal/PortFolio-Website"}
         />
         <ProjectCard
           title="Restuarant Backend" 
